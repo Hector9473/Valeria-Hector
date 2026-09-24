@@ -65,7 +65,7 @@ INVITADOS = {
 
 BASE_DIR = Path(__file__).parent
 
-FOTOS_DIR = BASE_DIR / "assets" / "fotos"
+FOTOS_DIR = BASE_DIR / "mi-carpeta"
 VESTUARIO_DIR = BASE_DIR / "assets" / "vestuario"
 MUSICA_DIR = BASE_DIR / "assets" / "musica"
 
