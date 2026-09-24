@@ -68,18 +68,18 @@ CARBON = "#30352C"
 
 # True  -> muestra el panel lateral para subir fotos y elegir dónde va cada una.
 # False -> versión final para los invitados (sin panel ni datos de prueba).
-MODO_EDICION = True
+MODO_EDICION = False
 
 # Fotos definitivas (las que verán los invitados).
 # 1) Sube tus imágenes a una carpeta del repositorio (ver NOMBRES_CARPETA_FOTOS).
 # 2) Escribe aquí sus nombres. El panel lateral te genera este bloque
 #    ya armado en la sección "3. Dejarlo fijo".
 FOTOS_FIJAS = {
-    "portada": None,      # fondo de la portada
-    "historia": None,     # foto en arco sobre "Una historia de amor"
-    "galeria": [],        # lista de fotos, en el orden en que se mostrarán
+    "portada": "1.jpg",      # fondo de la portada
+    "historia": "2.jpg, 3.jpg",     # foto en arco sobre "Una historia de amor"
+    "galeria": [3.jpg , 2.jpg],        # lista de fotos, en el orden en que se mostrarán
     "vestuario": None,    # imagen de referencia del código de vestuario
-    "cierre": None,       # fondo de la sección final
+    "cierre": "8.jpg",       # fondo de la sección final
 }
 
 # Encuadre vertical de las fotos de fondo:
