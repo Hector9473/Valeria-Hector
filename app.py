@@ -29,8 +29,8 @@ st.set_page_config(
 NOVIOS = "Valeria & Hector"
 FECHA = "08 · 01 · 2027"
 FECHA_COMPLETA = "08 de enero de 2027"
-HORA = "05:00 PM"
-HORA_LLEGADA = "04:30 PM"
+HORA = "05:00 pm"
+HORA_LLEGADA = "04:30 pm"
 
 LUGAR = "Parroquia Nuestra Señora del Café"
 DIRECCION = "Calle 23 A Norte #14-74"
