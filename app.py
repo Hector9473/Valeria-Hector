@@ -690,7 +690,7 @@ if MODO_EDICION:
         st.markdown("### 🎵 Música")
 
         musica = st.file_uploader(
-            "Archivo de audio",
+            "cancion.mp3",
             type=["mp3", "wav", "m4a"]
         )
 
