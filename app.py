@@ -76,8 +76,8 @@ MODO_EDICION = True
 #    ya armado en la sección "3. Dejarlo fijo".
 FOTOS_FIJAS = {
     "portada": 1,      # fondo de la portada
-    "historia": 2,3,     # foto en arco sobre "Una historia de amor"
-    "galeria": [4,5,6,7],        # lista de fotos, en el orden en que se mostrarán
+    "historia": 2-3,     # foto en arco sobre "Una historia de amor"
+    "galeria": [4-7],        # lista de fotos, en el orden en que se mostrarán
     "vestuario": None,    # imagen de referencia del código de vestuario
     "cierre": 8,       # fondo de la sección final
 }
