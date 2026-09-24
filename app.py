@@ -1137,8 +1137,8 @@ if musica:
 
     st.audio(
         musica,
-        format="audio/mp3",
-        autoplay=False
+        format="cancion.mp3",
+        autoplay=true
     )
 
 else:
