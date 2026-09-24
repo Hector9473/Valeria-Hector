@@ -78,7 +78,7 @@ FOTOS_FIJAS = {
     "portada": "1.jpg",      # fondo de la portada
     "historia": "2.jpg, 3.jpg",     # foto en arco sobre "Una historia de amor"
     "galeria": ["3.jpg , 2.jpg"],        # lista de fotos, en el orden en que se mostrarán
-    "vestuario": None,    # imagen de referencia del código de vestuario
+    "vestuario": "9.jpeg",    # imagen de referencia del código de vestuario
     "cierre": "8.jpg",       # fondo de la sección final
 }
 
