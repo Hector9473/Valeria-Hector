@@ -75,11 +75,11 @@ MODO_EDICION = True
 # 2) Escribe aquí sus nombres. El panel lateral te genera este bloque
 #    ya armado en la sección "3. Dejarlo fijo".
 FOTOS_FIJAS = {
-    "portada": None,      # fondo de la portada
-    "historia": None,     # foto en arco sobre "Una historia de amor"
-    "galeria": [],        # lista de fotos, en el orden en que se mostrarán
+    "portada": 1,      # fondo de la portada
+    "historia": 2,3,     # foto en arco sobre "Una historia de amor"
+    "galeria": [4,5,6,7],        # lista de fotos, en el orden en que se mostrarán
     "vestuario": None,    # imagen de referencia del código de vestuario
-    "cierre": None,       # fondo de la sección final
+    "cierre": 8,       # fondo de la sección final
 }
 
 # Encuadre vertical de las fotos de fondo:
