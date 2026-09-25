@@ -83,8 +83,8 @@ MODO_EDICION = True
 #    ya armado en la sección "3. Dejarlo fijo".
 FOTOS_FIJAS = {
     "portada": "1.jpg",      # fondo de la portada
-    "historia": ["2.jpg", "3.jpg", "4.jpg", "5.jpg"],       # 1 foto = arco; 2 a 4 fotos = collage
-    "galeria": [],        # lista de fotos, en el orden en que se mostrarán
+    "historia": ["2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg","7.jpg"],       # 1 foto = arco; 2 a 4 fotos = collage
+    "galeria": ["1.jpg","8.jpg"],        # lista de fotos, en el orden en que se mostrarán
     "vestuario": "9.jpeg",    # imagen de referencia del código de vestuario
     "cierre": "8.jpg",       # fondo de la sección final
 }
