@@ -85,7 +85,7 @@ FOTOS_FIJAS = {
     "portada": "1.jpg",      # fondo de la portada
     "historia": ["2.jpg","3.jpg","4.jpg","5.jpg","6.jpg"],       # 1 foto = arco; 2 a 6 fotos = collage
     "galeria": ["1.jpg","8.jpg"],        # lista de fotos, en el orden en que se mostrarán
-    "vestuario": "9.jpeg",    # imagen de referencia del código de vestuario
+    "vestuario": "ropa.jpeg",    # imagen de referencia del código de vestuario
     "cierre": "8.jpg",       # fondo de la sección final
 }
 
