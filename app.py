@@ -74,7 +74,7 @@ INVITADOS = {
 # están en INVITADOS ven la ceremonia; solo estos ven también la
 # recepción.
 INVITADOS_RECEPCION = {
-    # "maria-jose",
+    "valeria-ramos": "Valeria Ramos",
     # "hector-fabio",
 }
 
@@ -95,18 +95,18 @@ CARBON = "#30352C"
 
 # True  -> muestra el panel lateral para subir fotos y elegir dónde va cada una.
 # False -> versión final para los invitados (sin panel ni datos de prueba).
-MODO_EDICION = True
+MODO_EDICION = False
 
 # Fotos definitivas (las que verán los invitados).
 # 1) Sube tus imágenes a una carpeta del repositorio (ver NOMBRES_CARPETA_FOTOS).
 # 2) Escribe aquí sus nombres. El panel lateral te genera este bloque
 #    ya armado en la sección "3. Dejarlo fijo".
 FOTOS_FIJAS = {
-    "portada": None,      # fondo de la portada
-    "historia": [],       # 1 foto = arco; 2 a 6 fotos = collage
+    "portada": "1.jpg",      # fondo de la portada
+    "historia": ["2.jpg","3.jpg","4.jpg","5.jpg"],       # 1 foto = arco; 2 a 6 fotos = collage
     "galeria": [],        # lista de fotos, en el orden en que se mostrarán
-    "vestuario": [],      # 1 foto = ancho completo; 2 fotos = una junto a otra
-    "cierre": None,       # fondo de la sección final
+    "vestuario": ["ropa.jpeg","ropa2.jpeg"],      # 1 foto = ancho completo; 2 fotos = una junto a otra
+    "cierre": "8.jpg",       # fondo de la sección final
 }
 
 # Encuadre vertical de las fotos de fondo:
