@@ -101,11 +101,11 @@ MODO_EDICION = True
 # 2) Escribe aquí sus nombres. El panel lateral te genera este bloque
 #    ya armado en la sección "3. Dejarlo fijo".
 FOTOS_FIJAS = {
-    "portada": "1.jpg",      # fondo de la portada
-    "historia": ["2.jpg","3.jpg","4.jpg","5.jpg"],       # 1 foto = arco; 2 a 6 fotos = collage
+    "portada": "portada.jpg",      # fondo de la portada
+    "historia": ["1.jpeg","2.jpeg","3.jpeg","4.jpeg","5.jp5g","6.jpeg"],       # 1 foto = arco; 2 a 6 fotos = collage
     "galeria": [],        # lista de fotos, en el orden en que se mostrarán
     "vestuario": ["ropa.jpeg","ropa2.jpeg"],      # 1 foto = ancho completo; 2 fotos = una junto a otra
-    "cierre": "8.jpg",       # fondo de la sección final
+    "cierre": "cierre.jpg",       # fondo de la sección final
 }
 
 # Encuadre vertical de las fotos de fondo:
