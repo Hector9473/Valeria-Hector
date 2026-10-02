@@ -82,7 +82,7 @@ INVITADOS = {
 # están en INVITADOS ven la ceremonia; solo estos ven también la
 # recepción.
 INVITADOS_RECEPCION = {
-    # "maria-jose",
+    "valeria-ramos": "Valeria Ramos",
     # "hector-fabio",
 }
 
@@ -110,11 +110,11 @@ MODO_EDICION = True
 # 2) Escribe aquí sus nombres. El panel lateral te genera este bloque
 #    ya armado en la sección "3. Dejarlo fijo".
 FOTOS_FIJAS = {
-    "portada": None,      # fondo de la portada
-    "historia": [],       # 1 foto = arco; 2 a 6 fotos = collage
+    "portada": "portada.jpg",      # fondo de la portada
+    "historia": ["1.jpeg","2.jpeg","3.jpeg","4.jpeg","5.jpeg","6.jpg"],       # 1 foto = arco; 2 a 6 fotos = collage
     "galeria": [],        # lista de fotos, en el orden en que se mostrarán
-    "vestuario": [],      # 1 foto = ancho completo; 2 fotos = una junto a otra
-    "cierre": None,       # fondo de la sección final
+    "vestuario": ["ropa.jpeg","ropa2.jpeg"],      # 1 foto = ancho completo; 2 fotos = una junto a otra
+    "cierre": "Cierre.jpg",       # fondo de la sección final
 }
 
 # Encuadre vertical de las fotos de fondo:
