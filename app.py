@@ -92,7 +92,7 @@ INVITADOS = {
 # están en INVITADOS ven la ceremonia; solo estos ven también la
 # recepción.
 INVITADOS_RECEPCION = {
-    "Sandra-Liliana": "Sandra Liliana Garcia",
+   # "Sandra-Liliana": "Sandra Liliana Garcia",
     "Maria-Jose": "Maria Jose Caicedo",
     "Liliana-Florez": "Liliana Florez Sanchez",
     "Hector-Fabio":"Hector Fabio Salazar Urbano",
