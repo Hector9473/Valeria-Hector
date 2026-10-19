@@ -92,8 +92,22 @@ INVITADOS = {
 # están en INVITADOS ven la ceremonia; solo estos ven también la
 # recepción.
 INVITADOS_RECEPCION = {
-    "valeria-ramos": "Valeria Ramos",
-    # "hector-fabio",
+    "Sandra-Liliana": "Sandra Liliana Garcia",
+    "Maria-Jose": "Maria Jose Caicedo",
+    "Liliana-Florez": "Liliana Florez Sanchez",
+    "Hector-Fabio":"Hector Fabio Salazar Urbano",
+    "Kleverman": "Kleverman Salazar Florez",
+    "el-amor": "Valeria Ramos Garcia",
+    "el-H": "Hector Hernan Salazar Florez",
+    "Tia-Ingrid": "Ingrid Johana Florez Sanchez",
+    "Tia-nena":"Maria Elena Salazar Urbano",
+    "Abuelo-Delio":"Jose Delio Florez Botina",
+    "Abuelo-Hernando":"Hernando Salazar Agudelo",
+    "Joshek":"Joshek Parra Florez",
+    "Luisa-Cardona":"Luisa Maria Cardona",
+    "Diana":"Diana Janeth Pineda Gutierrez",
+    "Marcela":"Marcela Perez Duque",
+    "Lindy-Gonzales":"Lindy Gonzales",
 }
 
 
