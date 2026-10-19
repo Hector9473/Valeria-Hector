@@ -69,12 +69,22 @@ y juntar sus vidas como uno solo en el camino de Dios.
 
 # Lista de invitados: código (va en el enlace) -> nombre que se muestra
 INVITADOS = {
-    "maria-jose": "Maria Jose",
-    "sandra-liliana": "Sandra Liliana",
-    "hector-fabio": "Hector Fabio",
-    "liliana": "Liliana",
-    "valeria-ramos": "Valeria Ramos",
-    "hector-salazar": "Hector Salazar",
+    "Sandra-Liliana": "Sandra Liliana Garcia",
+    "Maria-Jose": "Maria Jose Caicedo",
+    "Liliana-Florez": "Liliana Florez Sanchez",
+    "Hector-Fabio":"Hector Fabio Salazar Urbano",
+    "Kleverman": "Kleverman Salazar Florez",
+    "el-amor": "Valeria Ramos Garcia",
+    "el-H": "Hector Hernan Salazar Florez",
+    "Tia-Ingrid": "Ingrid Johana Florez Sanchez",
+    "Tia-nena":"Maria Elena Salazar Urbano",
+    "Abuelo-Delio":"Jose Delio Florez Botina",
+    "Abuelo-Hernando":"Hernando Salazar Agudelo",
+    "Joshek":"Joshek Parra Florez",
+    "Luisa-Cardona":"Luisa Maria Cardona",
+    "Diana":"Diana Janeth Pineda Gutierrez",
+    "Marcela":"Marcela Perez Duque",
+    "Lindy-Gonzales":"Lindy Gonzales",
 }
 
 # Códigos (los mismos de arriba) de los invitados que, además de la
