@@ -41,11 +41,11 @@ DIRECCION = "Calle 23 A Norte #14-74"
 CIUDAD = "Armenia, Quindío"
 
 # Datos de la recepción (solo la ven los invitados de INVITADOS_RECEPCION)
-HORA_RECEPCION = "07:00 PM"
-LUGAR_RECEPCION = "Salón Los Almendros"
-DIRECCION_RECEPCION = "Carrera 14 #8-32"
-CIUDAD_RECEPCION = "Armenia, Quindío"
-MAPS_URL_RECEPCION = "https://maps.app.goo.gl/COMPLETAR"
+HORA_RECEPCION = "06:00 PM"
+LUGAR_RECEPCION = "Simon Simon Campestre"
+DIRECCION_RECEPCION = "Km 3 Via Armenia Circasia - Frente al retorno de Colillas"
+CIUDAD_RECEPCION = "Circasia, Quindío"
+MAPS_URL_RECEPCION = "https://maps.app.goo.gl/QnFnDSaVZDEM8d8U6"
 
 # Mensaje de "Lluvia de sobres" (solo lo ven los invitados que
 # también están en INVITADOS_RECEPCION)
@@ -111,10 +111,10 @@ MODO_EDICION = True
 #    ya armado en la sección "3. Dejarlo fijo".
 FOTOS_FIJAS = {
     "portada": "portada.jpg",      # fondo de la portada
-    "historia": ["1.jpeg","2.jpeg","3.jpeg","4.jpeg","5.jpeg","6.jpg"],       # 1 foto = arco; 2 a 6 fotos = collage
+    "historia": ["1.jpeg","2.jpeg","3.jpeg","4.jpeg","5.jpeg","7.jpeg"],       # 1 foto = arco; 2 a 6 fotos = collage
     "galeria": [],        # lista de fotos, en el orden en que se mostrarán
     "vestuario": ["ropa.jpeg","ropa2.jpeg"],      # 1 foto = ancho completo; 2 fotos = una junto a otra
-    "cierre": "Cierre.jpg",       # fondo de la sección final
+    "cierre": "6.jpg",       # fondo de la sección final
 }
 
 # Encuadre vertical de las fotos de fondo:
