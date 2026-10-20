@@ -128,7 +128,7 @@ CARBON = "#30352C"
 
 # True  -> muestra el panel lateral para subir fotos y elegir dónde va cada una.
 # False -> versión final para los invitados (sin panel ni datos de prueba).
-MODO_EDICION = True
+MODO_EDICION = False
 
 # Fotos definitivas (las que verán los invitados).
 # 1) Sube tus imágenes a una carpeta del repositorio (ver NOMBRES_CARPETA_FOTOS).
