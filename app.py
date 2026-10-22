@@ -51,7 +51,7 @@ MAPS_URL_RECEPCION = "https://maps.app.goo.gl/QnFnDSaVZDEM8d8U6"
 # también están en INVITADOS_RECEPCION)
 MENSAJE_SOBRES = (
     "Tu presencia es el regalo más importante para nosotros. "
-    "Pero si deseas tener un detalle con la pareja, "
+    "Pero si deseas tener un detalle, "
     "nos harás muy felices con una lluvia de sobres."
 )
 
@@ -85,7 +85,7 @@ INVITADOS = {
     "luisa-cardona":"Luisa Maria Cardona",
     "diana":"Diana Janeth Pineda Gutierrez",
     "marcela":"Marcela Perez Duque",
-    "lindy-gonzales":"Lindy Gonzales",
+    "lindy":"Lindy Gonzales",
 }
 
 # Códigos (los mismos de arriba) de los invitados que, además de la
