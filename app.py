@@ -70,8 +70,8 @@ y juntar sus vidas como uno solo en el camino de Dios.
 
 # Lista de invitados: código (va en el enlace) -> nombre que se muestra
 INVITADOS = {
-    "sandra_liliana": "Sandra Garcia",
-    "maria_jose": "Maria Jose Caicedo",
+    "sandra": "Sandra Garcia",
+    "majo": "Maria Jose Caicedo",
     "liliana_florez": "Liliana Florez Sanchez",
     "hector_fabio":"Hector Fabio Salazar Urbano",
     "kleverman": "Kleverman Salazar Florez",
@@ -105,8 +105,8 @@ INVITADOS = {
 # están en INVITADOS ven la ceremonia; solo estos ven también la
 # recepción.
 INVITADOS_RECEPCION = {
-    "sandra_liliana": "Sandra Liliana Garcia",
-    "maria_jose": "Maria Jose Caicedo",
+    "sandra": "Sandra Liliana Garcia",
+    "mariajose": "Maria Jose Caicedo",
     "liliana_florez": "Liliana Florez Sanchez",
     "Hector_Fabio":"Hector Fabio Salazar Urbano",
     "kleverman": "Kleverman Salazar Florez",
@@ -126,9 +126,9 @@ INVITADOS_RECEPCION = {
     "gustavo":"Gustavo Ramos",
     "tita":"Gloria Castaño",
     "ana":"Ana Castaño",
-    "mariana":"Mariana Martines",
+    "mariana":"Mariana Martinez",
     "fabian":"Fabian Martinez",
-    "alejandro":"Alejandro Martnez",
+    "alejandro":"Alejandro Martinez",
     "dani":"Hatala Villa",
     "carolina":"Carolina Villa",
     "vale_sebas":"Valentina & Sebastian",
