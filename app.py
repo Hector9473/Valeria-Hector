@@ -70,7 +70,7 @@ y juntar sus vidas como uno solo en el camino de Dios.
 
 # Lista de invitados: código (va en el enlace) -> nombre que se muestra
 INVITADOS = {
-    "sandra_liliana": "Sandra Liliana Garcia",
+    "sandra_liliana": "Sandra Garcia",
     "maria_jose": "Maria Jose Caicedo",
     "liliana_florez": "Liliana Florez Sanchez",
     "hector_fabio":"Hector Fabio Salazar Urbano",
@@ -80,7 +80,7 @@ INVITADOS = {
     "tia_ingrid": "Ingrid Johana Florez Sanchez",
     "tia_nena":"Maria Elena Salazar Urbano",
     "abuelo_delio":"Jose Delio Florez Botina",
-    "abuelo-hernando":"Hernando Salazar Agudelo",
+    "abuelo_hernando":"Hernando Salazar Agudelo",
     "joshek":"Joshek Parra Florez",
     "luisa-cardona":"Luisa Maria Cardona",
     "diana":"Diana Janeth Pineda Gutierrez",
