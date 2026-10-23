@@ -86,6 +86,18 @@ INVITADOS = {
     "diana":"Diana Janeth Pineda Gutierrez",
     "marcela":"Marcela Perez Duque",
     "lindy":"Lindy Gonzales",
+    "andres_papa":"Andres Ramos",
+    "andres_hermano":"Andres Ramos",
+    "gustavo":"Gustavo Ramos",
+    "tita":"Gloria Castaño",
+    "ana":"Ana Castaño",
+    "mariana":"Mariana Martines",
+    "fabian":"Fabian Martinez",
+    "alejandro":"Alejandro Martnez",
+    "dani":"Hatala Villa",
+    "carolina":"Carolina Villa",
+    "vale_sebas":"Valentina & Sebastian",
+    "miguel":"Miguel Herrera",
 }
 
 # Códigos (los mismos de arriba) de los invitados que, además de la
@@ -109,6 +121,18 @@ INVITADOS_RECEPCION = {
     "diana":"Diana Janeth Pineda Gutierrez",
     "marcela":"Marcela Perez Duque",
     "lindy_gonzales":"Lindy Gonzales",
+    "andres_papa":"Andres Ramos",
+    "andres_hermano":"Andres Ramos",
+    "gustavo":"Gustavo Ramos",
+    "tita":"Gloria Castaño",
+    "ana":"Ana Castaño",
+    "mariana":"Mariana Martines",
+    "fabian":"Fabian Martinez",
+    "alejandro":"Alejandro Martnez",
+    "dani":"Hatala Villa",
+    "carolina":"Carolina Villa",
+    "vale_sebas":"Valentina & Sebastian",
+    "miguel":"Miguel Herrera",
 }
 
 
