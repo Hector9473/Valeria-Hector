@@ -29,8 +29,8 @@ st.set_page_config(
 NOVIOS = "Valeria & Hector"
 FECHA = "08 · 01 · 2027"
 FECHA_COMPLETA = "08 de enero de 2027"
-HORA = "05:00 PM"
-HORA_LLEGADA = "04:30 PM"
+HORA = "04:00 PM"
+HORA_LLEGADA = "03:50 PM"
 
 # Colores/prendas sugeridas para el código de vestuario
 VESTUARIO_MUJER = "Verde Oliva, Verde Claro"
