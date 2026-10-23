@@ -108,7 +108,7 @@ INVITADOS_RECEPCION = {
     "sandra": "Sandra Liliana Garcia",
     "mariajose": "Maria Jose Caicedo",
     "liliana_florez": "Liliana Florez Sanchez",
-    "Hector_Fabio":"Hector Fabio Salazar Urbano",
+    "hector_fabio":"Hector Fabio Salazar Urbano",
     "kleverman": "Kleverman Salazar Florez",
     "el_amor": "Valeria Ramos Garcia",
     "el_h": "Hector Hernan Salazar Florez",
