@@ -98,6 +98,7 @@ INVITADOS = {
     "carolina":"Carolina Villa",
     "vale_sebas":"Valentina & Sebastian",
     "miguel":"Miguel Herrera",
+    "don_alirio":"Alirio Rincon"
 }
 
 # Códigos (los mismos de arriba) de los invitados que, además de la
@@ -105,8 +106,8 @@ INVITADOS = {
 # están en INVITADOS ven la ceremonia; solo estos ven también la
 # recepción.
 INVITADOS_RECEPCION = {
-    "sandra": "Sandra Liliana Garcia",
-    "mariajose": "Maria Jose Caicedo",
+    "sandra": "Sandra Garcia",
+    "majo": "Maria Jose Caicedo",
     "liliana_florez": "Liliana Florez Sanchez",
     "hector_fabio":"Hector Fabio Salazar Urbano",
     "kleverman": "Kleverman Salazar Florez",
@@ -117,22 +118,23 @@ INVITADOS_RECEPCION = {
     "abuelo_delio":"Jose Delio Florez Botina",
     "abuelo_hernando":"Hernando Salazar Agudelo",
     "joshek":"Joshek Parra Florez",
-    "luisa_cardona":"Luisa Maria Cardona",
+    "luisa-cardona":"Luisa Maria Cardona",
     "diana":"Diana Janeth Pineda Gutierrez",
     "marcela":"Marcela Perez Duque",
-    "lindy_gonzales":"Lindy Gonzales",
+    "lindy":"Lindy Gonzales",
     "andres_papa":"Andres Ramos",
     "andres_hermano":"Andres Ramos",
     "gustavo":"Gustavo Ramos",
     "tita":"Gloria Castaño",
     "ana":"Ana Castaño",
-    "mariana":"Mariana Martinez",
+    "mariana":"Mariana Martines",
     "fabian":"Fabian Martinez",
-    "alejandro":"Alejandro Martinez",
+    "alejandro":"Alejandro Martnez",
     "dani":"Hatala Villa",
     "carolina":"Carolina Villa",
     "vale_sebas":"Valentina & Sebastian",
     "miguel":"Miguel Herrera",
+    "don_alirio":"Alirio Rincon"
 }
 
 
