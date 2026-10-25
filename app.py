@@ -100,7 +100,8 @@ INVITADOS = {
     "miguel":"Miguel Herrera",
     "don_alirio":"Alirio Rincon",
     "carol":"Carol Rincon",
-    "felipe":"Felipe Salazar"
+    "felipe":"Felipe Salazar",
+    "abuela_mery":"Luz Mery Sanchez",
 }
 
 # Códigos (los mismos de arriba) de los invitados que, además de la
@@ -138,7 +139,8 @@ INVITADOS_RECEPCION = {
     "miguel":"Miguel Herrera",
     "don_alirio":"Alirio Rincon",
     "carol":"Carol Rincon",
-    "felipe":"Felipe Salazar"
+    "felipe":"Felipe Salazar",
+    "abuela_mery":"Luz Mery Sanchez",
 }
 
 
