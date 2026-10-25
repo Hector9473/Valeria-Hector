@@ -57,7 +57,7 @@ MENSAJE_SOBRES = (
 
 MAPS_URL = "https://maps.app.goo.gl/zgLv9FpbRy9U6T177"
 FORMS_URL = "https://forms.gle/4cGepJCuvvtpjZpq6"
-FECHA_LIMITE_CONFIRMACION = "Hasta el 30 de noviembre"
+FECHA_LIMITE_CONFIRMACION = "Hasta el 15 de noviembre"
 
 # Texto que aparece debajo del reproductor
 CANCION = "1+1=1 · Nanpa Básico"
