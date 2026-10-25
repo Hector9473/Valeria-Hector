@@ -98,7 +98,9 @@ INVITADOS = {
     "carolina":"Carolina Villa",
     "vale_sebas":"Valentina & Sebastian",
     "miguel":"Miguel Herrera",
-    "don_alirio":"Alirio Rincon"
+    "don_alirio":"Alirio Rincon",
+    "carol":"Carol Rincon",
+    "felipe":"Felipe Salazar"
 }
 
 # Códigos (los mismos de arriba) de los invitados que, además de la
@@ -134,7 +136,9 @@ INVITADOS_RECEPCION = {
     "carolina":"Carolina Villa",
     "vale_sebas":"Valentina & Sebastian",
     "miguel":"Miguel Herrera",
-    "don_alirio":"Alirio Rincon"
+    "don_alirio":"Alirio Rincon",
+    "carol":"Carol Rincon",
+    "felipe":"Felipe Salazar"
 }
 
 
